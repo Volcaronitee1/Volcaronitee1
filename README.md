@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Volc!
 
 ### About Me
-  - 🎓 In my first year studying Computer Science.
+  - 🎓 In my second year studying Computer Science.
   - 📚 I’m currently learning about the complexities of neural networks and their functionalities.
   - 🌱 Trying my best to expand my knowledge in software development.
 
